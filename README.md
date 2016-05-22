@@ -1,7 +1,9 @@
 Test Boilerplates for Node.JS
 ====
 
-**[nyc ava babel](./nyc-ava-babel)**
+> ES2015 Tests
+
+**[nyc ava babel](./nyc-ava)**
 - [x] nyc for cover
 - [x] ava for test
 - [x] babel for es2015
