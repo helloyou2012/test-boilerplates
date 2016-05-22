@@ -14,6 +14,11 @@ Test Boilerplates for Node.JS
 - [x] chai for assertion
 - [x] babel for es2015
 
+**[nyc mocha babel plugin coverage](./nyc-mocha-coverage)**
+- [x] nyc for cover
+- [x] mocha for test
+- [x] babel for es2015
+
 **[jest babel](./jest)**
 - [x] istanbul for cover
 - [x] jasmine for test
