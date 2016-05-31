@@ -23,3 +23,9 @@ Test Boilerplates for Node.JS
 - [x] istanbul for cover
 - [x] jasmine for test
 - [x] babel for es2015
+
+**[nyc tman chai babel](./nyc-tman-chai)**
+- [x] nyc for cover
+- [x] tman for test
+- [x] chai for assertion
+- [x] babel for es2015
